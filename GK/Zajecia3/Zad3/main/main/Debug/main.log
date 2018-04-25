@@ -1,0 +1,269 @@
+﻿  stdafx.cpp
+  targa.cpp
+  main.cpp
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(21): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(21): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(26): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(26): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(36): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(36): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(43): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(43): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(50): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(50): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(55): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(55): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(67): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(67): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(81): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(81): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(88): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(88): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(93): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(93): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(98): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(98): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(103): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(103): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(110): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(110): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(117): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(117): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(122): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(122): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(127): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(127): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(134): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(134): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(148): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(148): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(155): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(155): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(160): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(160): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(167): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(167): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(174): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(174): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(181): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(181): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(188): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(188): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(193): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(193): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(200): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(200): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(205): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(205): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(212): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(212): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(217): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(217): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(222): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(222): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(227): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(227): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(232): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(232): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(237): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(237): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(244): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(244): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(249): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(249): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(254): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(254): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(259): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(259): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(264): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(264): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(269): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(269): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(274): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(274): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(279): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(279): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(291): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(291): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(296): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(296): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(303): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(303): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(308): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(308): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(315): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(315): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(322): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(322): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(329): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(329): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(336): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(336): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(343): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(343): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(348): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(348): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(355): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(355): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(362): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(362): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(369): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(369): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(376): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(376): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(381): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(381): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(386): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(386): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(391): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(391): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(396): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(396): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(401): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(401): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(406): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(406): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(411): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(411): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(416): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(416): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(421): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(421): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(426): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(426): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(431): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(431): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(436): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(436): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(441): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(441): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(446): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(446): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(451): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(451): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(456): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(456): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(470): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(470): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(477): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(477): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(491): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(491): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(496): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(496): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(501): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(501): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(506): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(506): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(511): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(511): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(516): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(516): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(521): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(521): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(526): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(526): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(531): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(531): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(536): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(536): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(541): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(541): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(546): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(546): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(551): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(551): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(556): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(556): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(561): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(561): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(568): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(568): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(573): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(573): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(580): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(580): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(588): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(588): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(595): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(595): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(602): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(602): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(607): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(607): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(612): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(612): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(619): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(619): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(626): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(626): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(631): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(631): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(636): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(636): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(641): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(641): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(646): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(646): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(653): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(653): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(660): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(660): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(665): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(665): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(672): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(672): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(684): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(684): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(689): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(689): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(696): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(696): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(703): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(703): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(708): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(708): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(713): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(713): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(718): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(718): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(725): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(725): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(732): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(732): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(739): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(739): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(746): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(746): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(753): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(753): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(760): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(760): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(767): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(767): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(774): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(774): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(781): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(781): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(788): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(788): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(795): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(795): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(802): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(802): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(816): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(816): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(823): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(823): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(828): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(828): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(840): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(840): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(854): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\dominik\desktop\zajecia3\zad3\main\main\colors.h(854): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\main.cpp(240): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\main.cpp(245): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\zajecia3\zad3\main\main\main.cpp(275): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik\desktop\zajecia3\zad3\main\main\main.cpp(277): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  main.vcxproj -> C:\Users\Dominik\Desktop\Zajecia3\Zad3\main\Debug\main.exe

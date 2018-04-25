@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\dominik\desktop\grafika\zajecia1\main\main\main.cpp(131): warning C4244: 'initializing': conversion from 'float' to 'GLsizei', possible loss of data
+c:\users\dominik\desktop\grafika\zajecia1\main\main\main.cpp(163): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik\desktop\grafika\zajecia1\main\main\main.cpp(219): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+c:\users\dominik\desktop\grafika\zajecia1\main\main\main.cpp(225): warning C4244: '=': conversion from 'GLsizei' to 'GLfloat', possible loss of data
+  main.vcxproj -> C:\Users\Dominik\Desktop\Grafika\Zajecia1\main\Debug\main.exe

@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  Stozek.cpp
+c:\users\dominik\desktop\grafika\zaj2\zad2\stozek\stozek\stozek.cpp(143): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik\desktop\grafika\zaj2\zad2\stozek\stozek\stozek.cpp(145): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik\desktop\grafika\zaj2\zad2\stozek\stozek\stozek.cpp(187): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik\desktop\grafika\zaj2\zad2\stozek\stozek\stozek.cpp(189): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Stozek.vcxproj -> C:\Users\Dominik\Desktop\Grafika\Zaj2\Zad2\Stozek\Debug\Stozek.exe

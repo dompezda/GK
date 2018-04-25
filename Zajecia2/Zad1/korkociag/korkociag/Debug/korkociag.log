@@ -1,0 +1,4 @@
+﻿  korkociag.cpp
+c:\users\dominik\desktop\grafika\zaj2\zad1\korkociag\korkociag\korkociag.cpp(37): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\dominik\desktop\grafika\zaj2\zad1\korkociag\korkociag\korkociag.cpp(38): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  korkociag.vcxproj -> C:\Users\Dominik\Desktop\Grafika\Zaj2\Zad1\korkociag\Debug\korkociag.exe

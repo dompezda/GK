@@ -1,0 +1,4 @@
+﻿  Piramida.cpp
+c:\users\dominik\desktop\grafika\zaj2\zad3\piramida\piramida\piramida.cpp(251): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\dominik\desktop\grafika\zaj2\zad3\piramida\piramida\piramida.cpp(253): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Piramida.vcxproj -> C:\Users\Dominik\Desktop\Grafika\Zaj2\Zad3\Piramida\Debug\Piramida.exe

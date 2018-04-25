@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\dominik\desktop\grafika\zajecia3\zad1\main\main\main.cpp(83): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\grafika\zajecia3\zad1\main\main\main.cpp(259): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\grafika\zajecia3\zad1\main\main\main.cpp(268): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\grafika\zajecia3\zad1\main\main\main.cpp(379): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\grafika\zajecia3\zad1\main\main\main.cpp(383): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\grafika\zajecia3\zad1\main\main\main.cpp(387): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\dominik\desktop\grafika\zajecia3\zad1\main\main\main.cpp(391): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  main.vcxproj -> C:\Users\Dominik\Desktop\Grafika\Zajecia3\Zad1\main\Debug\main.exe
